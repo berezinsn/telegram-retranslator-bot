@@ -6,11 +6,11 @@
 
 ## How to use <br>
 **prerequisite:** >=python3.8 <br><br>
-**install the venv by passing the following command:**
+**install the venv by passing the following command:** <br>
 `virtualenv venv -p python3` <br><br>
-**activate virtual environment**
+**activate virtual environment** <br>
 `source venv/bin/activate` <br><br>
-**install required libs**
+**install required libs** <br>
 `pip install -r requirements.txt` <br><br>
 **create config file with the following fields:**
 
