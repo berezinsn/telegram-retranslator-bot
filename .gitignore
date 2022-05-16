@@ -1,0 +1,4 @@
+config.py
+./venv
+.idea
+service_account.session
